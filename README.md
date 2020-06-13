@@ -8,6 +8,8 @@ Techonologies used for the implementation of this application include:
 * IndexDB (to manage offline database entries)
 * Service worker (to cache files)
 
+The application has been deployed on Heroku: https://salty-dusk-34081.herokuapp.com/
+
 
 ## Preview: 
 ![online](public/assets/Preview1.PNG)
